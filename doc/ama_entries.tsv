@@ -97,3 +97,10 @@ pdbID	status	reason
 		
 ### Notes:		
 		Check the papers for hard cases.
+		
+		
+##Ruixuan
+5e1jA    w      transmembrane protein, not sure about protein boundary,have checked the paper
+5e04B    w      the paper mentions that it has a core domain, not sure if it is a WCD
+5azcA    w      the paper mentions that a body domain is divided into a major TM domain and a minor TM domain, not sure which to choose
+5dyrA    W      cc and catherdal failed, paper not published, structure not centrally packed 
